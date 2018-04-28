@@ -3,14 +3,14 @@ My repository for machine learning algorithms.
 
 https://github.com/walterngaw/machine_learning
 
-## Installation:
+## Installation
 	$ pip install -r requirements.txt
 
-## Supervised:
+## Supervised
 - XGBoost
 - Artificial Neural Networks
 
-## Unsupervised:
+## Unsupervised
 - K-Means Clustering
 - Hierarchical Clustering
 - Self Organizing Map
