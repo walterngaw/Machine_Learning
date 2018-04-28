@@ -1,6 +1,7 @@
 # Machine_Learning
 My repository for machine learning algorithms.
-Github link: https://github.com/walterngaw/machine_learning
+
+https://github.com/walterngaw/machine_learning
 
 ## Installation:
 	$ pip install -r requirements.txt
