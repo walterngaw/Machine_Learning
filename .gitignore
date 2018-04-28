@@ -17,13 +17,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# =========================
-# Operating System Files
-# =========================
+# Python
+.ipynb_checkpoints
+*.pyc
 
 # OSX
-# =========================
-
 .DS_Store
 .AppleDouble
 .LSOverride
